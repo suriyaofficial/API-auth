@@ -36,4 +36,4 @@ Content-Type: application/json
 ###
 
 GET http://localhost:3000/users/
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjk5MjYzODIxfQ.dHGHgoJtaUVDxz7b6jI_TDvJs1NGxRP8-JypaQgxMJQ
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InN1cml5YTEyMzQ1IiwiaWF0IjoxNjk5MjczODYzfQ.IfDD19BaoL-AwEnZEGxC0Zh23hlO-F3vpFiFXRlf1gg
