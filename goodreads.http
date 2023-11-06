@@ -1,0 +1,39 @@
+###
+
+POST http://localhost:3000/users/
+Content-Type: application/json
+
+{   
+    "name":"suriya",
+    "username":"suriya12345",
+    "password": "SIRI@1711",
+    "gender": "Male",
+    "location":"hyderabad"
+}
+###
+
+POST http://localhost:3000/users/
+Content-Type: application/json
+
+{   
+    "name":"suriya",
+    "username":"suriya12345",
+    "password": "SIRI@1711",
+    "gender": "Male",
+    "location":"hyderabad"
+}
+
+
+###
+
+POST http://localhost:3000/login/
+Content-Type: application/json
+
+{
+    "username":"suriya12345",
+    "password": "SIRI@1711"
+}
+###
+
+GET http://localhost:3000/users/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjk5MjYzODIxfQ.dHGHgoJtaUVDxz7b6jI_TDvJs1NGxRP8-JypaQgxMJQ
